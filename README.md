@@ -10,11 +10,11 @@ Will add comments to every part before starting plannign out the program.
 Will finish the starting part of both programs.
 Responsible for edits.
 
-Eshan() :- <br>
-Finish the rest of program 1.
+Eshan() :- 
+Finish the rest of program.
 Responsible for edits.
 
-Merlyn () :- <br>
-Finish the rest of program 2.
+Merlyn () :- 
+Finish the rest of program.
 Responsible for edits.
 
