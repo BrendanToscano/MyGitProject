@@ -6,12 +6,15 @@
 # Catch errors.
 while(true):
     try:
-        print("1. Enter 1 if you want to enter a prime number.")
-        print("2. Enter 2 if you want to exit program.")
-        num = int(input("Enter choice: -"))
+        print("1. If you want to check if a prime number.")
+        print("2. If you want to exit program.")
+        choice = int(input("Enter choice: -"))
+        
+        if choice == 1:
+            num = int(input("Enter number: -"))
+            # Check if number is prime by using %.
         
     except as e:
         print("{e}")
 
-# Check if number is prime by using %.
 
