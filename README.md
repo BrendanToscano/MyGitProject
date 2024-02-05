@@ -6,17 +6,17 @@ Programs:-
 
 Projects will be in the python programs branch.
 
-Plan: - 
-Brendan(0301485t):- 
-Will add comments to every part before starting plannign out the program.
-Will finish the starting part of both programs.
-Responsible for edits.
+Plan: - <br>
+Brendan(0301485t):- <br>
+Will add comments to every part before starting plannign out the program. <br>
+Will finish the starting part of both programs. <br>
+Responsible for edits. <br>
 
 Eshan() :- <br>
-Finish the rest of program 1.
-Responsible for edits.
+Finish the rest of program 1. <br>
+Responsible for edits. <br>
 
 Merlyn () :- <br>
-Finish the rest of program 2.
-Responsible for edits.
+Finish the rest of program 2. <br>
+Responsible for edits. <br>
 
