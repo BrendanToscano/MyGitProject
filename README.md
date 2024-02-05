@@ -4,17 +4,17 @@ Programs:-
 1. Python program to check if the user input is a prime number.
 2. Python program to check if the user input is a prime number.
 
-Plan: - 
-Brendan(0301485t):- 
-Will add comments to every part before starting plannign out the program.
-Will finish the starting part of both programs.
-Responsible for edits.
+Plan: - <br>
+Brendan(0301485t):- <br>
+Will add comments to every part before starting plannign out the program. <br>
+Will finish the starting part of both programs. <br>
+Responsible for edits. <br>
 
-Eshan() :- 
-Finish the rest of program.
-Responsible for edits.
+Eshan() :- <br>
+Finish the rest of program. <br>
+Responsible for edits. <br>
 
-Merlyn () :- 
-Finish the rest of program.
-Responsible for edits.
+Merlyn () :- <br>
+Finish the rest of program. <br>
+Responsible for edits. <br>
 
