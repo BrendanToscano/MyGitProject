@@ -1,7 +1,7 @@
 # MyGitProject
 
 Programs:- 
-1. Python program to check if the user input is a prime number.
+1. Python program to display all the prime numbers within an interval.
 2. Python program to check if the user input is a prime number.
 
 Plan: - <br>
