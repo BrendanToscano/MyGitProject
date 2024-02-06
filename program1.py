@@ -10,6 +10,10 @@ except:
 
 # Run through all numbers in given range.
 for i in range(startNum, endNum):
+    ###### Teammate 1 was suppose to do this part. ######
+    ###### Since team was not involved I will do this part #####
     # Check if the all numbers in the range are prime or not.
+    if i > 1:
+        for j in range(
 
     # If number is prime print it.

@@ -10,9 +10,13 @@ while(true):
         print("2. If you want to exit program.")
         choice = int(input("Enter choice: -"))
         
+        # Choice menu
         if choice == 1:
             num = int(input("Enter number: -"))
+            ###### Teammate 2 would proceed from here. ######
+            ###### Since team was not involved I will do this part #####
             # Check if number is prime by using %.
+        
         
     except as e:
         print("{e}")
