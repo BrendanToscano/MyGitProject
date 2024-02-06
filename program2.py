@@ -8,7 +8,7 @@ while(true):
     try:
         print("1. If you want to check if a prime number.")
         print("2. If you want to exit program.")
-        choice = int(input("Enter choice: -"))
+        choice = input("Enter choice: -")
         
         # Choice menu
         if choice == 1:
@@ -16,6 +16,24 @@ while(true):
             ###### Teammate 2 would proceed from here. ######
             ###### Since team was not involved I will do this part #####
             # Check if number is prime by using %.
+                if i <= 1:
+                    isPrime = False
+                else:
+                    for j in range(2, i-1):
+                        if i % j == 0:
+                            isPrime = False
+                            break
+                if isPrime:
+                    print(f"{i} is a prime number.")
+                else:
+                    print(f"{i} is not a prime number.")
+        elif choice == 2:
+            print("Program ended successfully.")
+            break
+        else:
+            print("Program ended unsuccessfully.")
+            break
+            
         
         
     except as e:
